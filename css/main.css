@@ -81,7 +81,7 @@
 }
 
 .nav__link:hover {
-    color: blue;
+    color: rgb(132, 132, 132);
 }
 
 .nav__link--active {
@@ -183,7 +183,7 @@
 }
 
 .about-bgImg-container {
-    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/model-1.jpg);
+    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/my-profile-photo.jpg);
     width: 100%;
     height: 50vh;
     background-position: center center;
@@ -229,7 +229,7 @@
 }
 
 .home-bgImg-container {
-    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/model-1.jpg);
+    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/my-profile-photo.jpg);
     width: 100%;
     height: 100vh;
     background-position: center center;
@@ -264,7 +264,7 @@
 }
 
 .contact-bgImg-container {
-    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/model-1.jpg);
+    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/my-profile-photo.jpg);
     width: 100%;
     height: 100vh;
     background-position: center center;
@@ -298,7 +298,7 @@
 }
 
 .project-bgImg-container {
-    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/model-1.jpg);
+    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/my-profile-photo.jpg);
     width: 100%;
     height: 50vh;
     background-position: center center;
