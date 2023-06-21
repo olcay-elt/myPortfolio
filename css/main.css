@@ -311,8 +311,8 @@ h3 {
     &.textContainer {
         padding: 40px;
         font-size: 40px;
-        color: rgb(244, 235, 235);
-        font-weight: 400;
+        color: rgb(255, 255, 255);
+        font-weight: 500;
     }
 }
 
