@@ -130,9 +130,12 @@ h3 {
     font-size: 1.2rem;
 }
 
+.about {
+    background-color: #959494;
+}
+
 .about-bgImg-container {
     background: url(../images/my-profile-photo.jpg);
-    background-color: #959494;
     width: 100%;
     height: 50vh;
     background-position: center center;
