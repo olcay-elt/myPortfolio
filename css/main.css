@@ -132,6 +132,7 @@ h3 {
 
 .about {
     background-color: #cccdce;
+    margin: 0.5rem;
 }
 
 .about-bgImg-container {
@@ -168,7 +169,7 @@ h3 {
 
 .about__job {
     margin: 1rem;
-    background: #818080;
+    background: #b8c1c4;
     border-bottom: 5px solid #ff652f;
 }
 
