@@ -157,6 +157,7 @@ h3 {
 }
 
 .about__container {
+    background-color: #aca5a3;
     width: 70vw;
     margin: 2rem auto;
 }
