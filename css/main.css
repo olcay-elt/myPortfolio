@@ -132,7 +132,7 @@ h3 {
 
 .about-bgImg-container {
     background: url(../images/my-profile-photo.jpg);
-    background-color: #aeadad;
+    background-color: #959494;
     width: 100%;
     height: 50vh;
     background-position: center center;
@@ -147,7 +147,7 @@ h3 {
 }
 
 .about-bgImg-container .about__bio-image h2 {
-    color: #aca5a3;
+    color: #ff652f;
     font-size: 3rem;
     font-weight: 400;
 }
