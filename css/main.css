@@ -164,8 +164,9 @@ h3 {
 
 .about__job {
     margin: 0.5rem;
-    background: #9e9fa0;
+    background: #a0a1a2;
     border-bottom: 5px solid #ff652f;
+    text-align: center;
 }
 
 .about h2,
