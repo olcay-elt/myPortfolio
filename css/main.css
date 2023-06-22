@@ -131,7 +131,7 @@ h3 {
 }
 
 .about-bgImg-container {
-    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/my-profile-photo.jpg);
+    background: url(../images/my-profile-photo.jpg);
     width: 100%;
     height: 50vh;
     background-position: center center;
@@ -212,7 +212,7 @@ h3 {
 }
 
 .contact-bgImg-container {
-    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/my-profile-photo.jpg);
+    background: url(../images/my-profile-photo.jpg);
     width: 100%;
     height: 100vh;
     background-position: center center;
@@ -246,7 +246,7 @@ h3 {
 }
 
 .project-bgImg-container {
-    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/my-profile-photo.jpg);
+    background: url(../images/my-profile-photo.jpg);
     width: 100%;
     height: 50vh;
     background-position: center center;
