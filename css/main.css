@@ -177,7 +177,7 @@ h3 {
 }
 
 .home-bgImg-container {
-    background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url(../images/my-profile-photo.jpg);
+    background: linear-gradient(to right, rgba(94, 94, 94, 0.9), rgba(124, 123, 123, 0.2)), url(../images/my-profile-photo.jpg);
     width: 100%;
     height: 100vh;
     background-position: center center;
