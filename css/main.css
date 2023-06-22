@@ -160,11 +160,12 @@ h3 {
 
     width: 80vw;
     margin: 0.5rem auto;
+    background-color: #aaa9a8;
 }
 
 .about__job {
     margin: 0.5rem;
-    background: #a0a1a2;
+    background: #909192;
     border-bottom: 5px solid #ff652f;
     text-align: center;
 }
