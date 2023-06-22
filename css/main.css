@@ -130,6 +130,10 @@ h3 {
     font-size: 1.2rem;
 }
 
+.about {
+    background-color: #aaa9a8;
+}
+
 .about-bgImg-container {
     background: url(../images/my-profile-photo.jpg);
     width: 100%;
@@ -160,7 +164,7 @@ h3 {
 
     width: 80vw;
     margin: 0.5rem auto;
-    background-color: #aaa8a8;
+
 }
 
 .about__job {
