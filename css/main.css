@@ -211,8 +211,9 @@ h3 {
 }
 
 .home__name--last {
-    color: red;
+    color: rgb(208, 20, 20);
     font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .home h1,
